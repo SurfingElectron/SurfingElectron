@@ -5,8 +5,14 @@
 </h1>
 
 <div id="image-banner" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="animation of a woman coding">
+  <a href="https://www.linkedin.com/in/emma-gill-ncc1701/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn badge">
+  </a>
+</div>
 
+<div id="image-banner" align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="animation of a woman coding">
+</div>
 
 <a href="https://www.linkedin.com/in/emma-gill-ncc1701/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn badge">

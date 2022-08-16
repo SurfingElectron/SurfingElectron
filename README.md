@@ -4,10 +4,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave-emoji"/>
 </h1>
 
-![Woman coding animation](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
-
 <div id="image-banner" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="animation of a woman coding">
 </div>
 
 
@@ -32,7 +30,7 @@ I'm a former therapy radiographer who's come full circle and returned to my youn
 
 ## GitHub Stats
 ![Emma's GitHub stats](https://github-readme-stats.vercel.app/api?username=SurfingElectron&count_private=true&show_icons=true&theme=radical)
-![Emma's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SurfingElectron&langs_count=4&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Emma's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SurfingElectron&langs_count=4&layout=compact&theme=radical)]
 
 <!--
 https://github.com/anuraghazra/github-readme-stats

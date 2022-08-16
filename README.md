@@ -28,8 +28,8 @@ I'm a former therapy radiographer who's come full circle and returned to my youn
 
 ## GitHub Stats
 ![Emma's GitHub stats](https://github-readme-stats.vercel.app/api?username=SurfingElectron&count_private=true&show_icons=true&theme=tokyonight&bg_color=0a0c10&border_color=BE90F2)
-![Emma's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SurfingElectron&langs_count=4&layout=compact&theme=tokyonight&bg_color=0a0c10&border_color=BE90F2)
-[![GitHub Streak]([![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SurfingElectron&theme=tokyonight_duo&border=BE90F2)](https://git.io/streak-stats))
+[![Emma's GitHub streak](http://github-readme-streak-stats.herokuapp.com?user=SurfingElectron&theme=tokyonight_duo&border=BE90F2)](https://git.io/streak-stats)
+![Emma's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SurfingElectron&langs_count=4&layout=compact&theme=tokyonight&bg_color=0a0c10&border_color=BE90F2)
 
 <!--
 SITES USES

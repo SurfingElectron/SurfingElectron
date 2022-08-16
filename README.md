@@ -9,10 +9,10 @@
 </div>
 
 
-#### About Me
+### About Me
 I'm a former therapy radiographer who's come full circle and returned to my younger self's interest in tech. I love learning new things, solving problems, and working with people. All things I got to do as a radiographer, which I'm now applying to my journey in tech!
 
-#### What I'm Tinkering With
+### What I'm Tinkering With
 - 🔭 I’m currently working on: 
   - Fortunes and Winds, a dice game from the RPG "Legend of the Five Rings". The eventual aim is to turn this into a Discord bot so people can play/use it in a server;
   - Pokemon Top Trumps using the PokemonAPI;
@@ -28,9 +28,9 @@ I'm a former therapy radiographer who's come full circle and returned to my youn
 
 ## GitHub Stats
 <div id="github-stats" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SurfingElectron&count_private=true&show_icons=true&theme=tokyonight&bg_color=0a0c10&border_color=BE90F2"  alt="Emma's Github stats">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=SurfingElectron&theme=tokyonight_duo&border=BE90F2" alt="Emma's GitHub streak">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurfingElectron&langs_count=4&layout=compact&theme=tokyonight&bg_color=0a0c10&border_color=BE90F2" alt="Emma's top languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=SurfingElectron&show_icons=true&hide=contribs&theme=tokyonight&bg_color=0a0c10&border_color=BE90F2"  alt="Emma's Github stats">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=SurfingElectron&theme=tokyonight_duo&border=BE90F2" alt="Emma's GitHub streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurfingElectron&langs_count=4&layout=compact&theme=tokyonight&bg_color=0a0c10&border_color=BE90F2" alt="Emma's top languages">
 </div>
 <!--
 SITES USES

@@ -12,11 +12,22 @@
   - A tarot card reading app, to create and save tarot card readings.
 - 📫 How to reach me: Here! I have a twitter account, but I keep forgetting to check it. ;)
 
+## Toolbox and Tinkering
+![HTML5 Badge](https://img.shields.io/badge/HTML-blueviolet?style=for-the-badge&logo=html5)
+![CSS3 Badge](https://img.shields.io/badge/CSS-blueviolet?style=for-the-badge&logo=css3)
+![Tailwind Badge](https://img.shields.io/badge/Tailwind-blueviolet?style=for-the-badge&logo=tailwindcss)
+![React Badge](https://img.shields.io/badge/React-blueviolet?style=for-the-badge&logo=react)
 
-![Emma's GitHub stats](https://github-readme-stats.vercel.app/api?username=SurfingElectron&show_icons=true&theme=radical)
+
+## GitHub Stats
+![Emma's GitHub stats](https://github-readme-stats.vercel.app/api?username=SurfingElectron&count_private=true&show_icons=true&theme=radical)
 [![Emma's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SurfingElectron&langs_count=4&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 https://github.com/anuraghazra/github-readme-stats
-
+![Name](URL)
+![Badge](URL)
+![Badge](URL)
+![Badge](URL)
+![Badge](URL)
 -->

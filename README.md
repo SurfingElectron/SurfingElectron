@@ -6,6 +6,11 @@
 
 ![Woman coding animation](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
+<div id="image-banner" align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+</div>
+
+
 #### About Me
 I'm a former therapy radiographer who's come full circle and returned to my younger self's interest in tech. I love learning new things, solving problems, and working with people. All things I got to do as a radiographer, which I'm now applying to my journey in tech!
 
@@ -26,8 +31,8 @@ I'm a former therapy radiographer who's come full circle and returned to my youn
 
 
 ## GitHub Stats
-[Emma's GitHub stats](https://github-readme-stats.vercel.app/api?username=SurfingElectron&count_private=true&show_icons=true&theme=radical)
-[[Emma's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SurfingElectron&langs_count=4&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Emma's GitHub stats](https://github-readme-stats.vercel.app/api?username=SurfingElectron&count_private=true&show_icons=true&theme=radical)
+![Emma's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SurfingElectron&langs_count=4&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 https://github.com/anuraghazra/github-readme-stats

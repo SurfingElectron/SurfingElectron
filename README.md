@@ -1,7 +1,13 @@
 <!-- **SurfingElectron/SurfingElectron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-### Hi there, I'm Emma! 👋
+<h1 align="center">
+  Hi there, I'm Emma!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave-emoji"/>
+</h1>
 
-#### I'm a former therapy radiographer who's come full circle and returned to my younger self's interest in tech. I love learning new things, solving problems, and working with people. All things I got to do as a radiographer, which I'm now applying to my journey in tech!
+![Woman coding animation](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+
+#### About Me
+I'm a former therapy radiographer who's come full circle and returned to my younger self's interest in tech. I love learning new things, solving problems, and working with people. All things I got to do as a radiographer, which I'm now applying to my journey in tech!
 
 #### 
 - 🖥️ I’m currently developing with React, Node.js, Express, and PostgreSQL.
@@ -20,8 +26,8 @@
 
 
 ## GitHub Stats
-![Emma's GitHub stats](https://github-readme-stats.vercel.app/api?username=SurfingElectron&count_private=true&show_icons=true&theme=radical)
-[![Emma's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SurfingElectron&langs_count=4&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[Emma's GitHub stats](https://github-readme-stats.vercel.app/api?username=SurfingElectron&count_private=true&show_icons=true&theme=radical)
+[[Emma's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SurfingElectron&langs_count=4&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 https://github.com/anuraghazra/github-readme-stats

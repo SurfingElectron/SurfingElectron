@@ -14,13 +14,8 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="animation of a woman coding">
 </div>
 
-<a href="https://www.linkedin.com/in/emma-gill-ncc1701/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn badge">
-</a>
-</div>
-
 ### About Me
-I'm a former therapy radiographer who's come full circle and returned to my younger self's interest in tech. I love learning new things, solving problems, and working with people. All things I got to do as a radiographer, which I'm now applying to my journey in tech!
+Before moving into software development, I was a therapy radiographer working for the NHS. I love solving problems, learning new things, and working with people. All things I got to do as a radiographer, which I'm now applying to my journey in tech!
 
 ### What I'm Tinkering With
 I’m currently working on: 

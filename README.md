@@ -28,7 +28,7 @@ I'm a former therapy radiographer who's come full circle and returned to my youn
 
 ## GitHub Stats
 <div id="github-stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SurfingElectron&show_icons=true&theme=tokyonight&bg_color=0a0c10&border_color=BE90F2"  alt="Emma's Github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=SurfingElectron&count_private=true&show_icons=true&theme=tokyonight&bg_color=0a0c10&border_color=BE90F2"  alt="Emma's Github stats">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=SurfingElectron&theme=tokyonight_duo&border=BE90F2" alt="Emma's GitHub streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurfingElectron&langs_count=4&layout=compact&theme=tokyonight&bg_color=0a0c10&border_color=BE90F2" alt="Emma's top languages">
 </div>

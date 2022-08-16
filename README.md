@@ -6,18 +6,22 @@
 
 <div id="image-banner" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="animation of a woman coding">
-</div>
 
+
+<a href="https://www.linkedin.com/in/emma-gill-ncc1701/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn badge">
+</a>
+</div>
 
 ### About Me
 I'm a former therapy radiographer who's come full circle and returned to my younger self's interest in tech. I love learning new things, solving problems, and working with people. All things I got to do as a radiographer, which I'm now applying to my journey in tech!
 
 ### What I'm Tinkering With
-- 🔭 I’m currently working on: 
+I’m currently working on: 
   - Fortunes and Winds, a dice game from the RPG "Legend of the Five Rings". The eventual aim is to turn this into a Discord bot so people can play/use it in a server;
   - Pokemon Top Trumps using the PokemonAPI;
   - A tarot card reading app, to create and save tarot card readings.
-- 📫 How to reach me: Here! I have a twitter account, but I keep forgetting to check it. ;)
+
 
 ## My Toolbox  
 ![HTML5 Badge](https://img.shields.io/badge/HTML-blueviolet?style=for-the-badge&logo=html5)

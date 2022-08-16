@@ -1,5 +1,5 @@
 <!-- **SurfingElectron/SurfingElectron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<div id="image-banner" align="center">
+<div id="image-banner" align="right">
   <a href="https://www.linkedin.com/in/emma-gill-ncc1701/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn badge">
   </a>

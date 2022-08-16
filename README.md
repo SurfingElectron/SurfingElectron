@@ -13,6 +13,9 @@
 - 📫 How to reach me: Here! I have a twitter account, but I keep forgetting to check it. ;)
 
 
-<!-- - 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ... -->
+![Emma's GitHub stats](https://github-readme-stats.vercel.app/api?username=SurfingElectron&show_icons=true&theme=synthwave)
+
+<!--
+https://github.com/anuraghazra/github-readme-stats
+
+-->

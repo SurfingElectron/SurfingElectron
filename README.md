@@ -1,14 +1,14 @@
 <!-- **SurfingElectron/SurfingElectron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<h1 align="center">
-  Hi there, I'm Emma!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave-emoji"/>
-</h1>
-
 <div id="image-banner" align="center">
   <a href="https://www.linkedin.com/in/emma-gill-ncc1701/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn badge">
   </a>
 </div>
+
+<h1 align="center">
+  Hi there, I'm Emma!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave-emoji"/>
+</h1>
 
 <div id="image-banner" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="animation of a woman coding">
@@ -18,7 +18,6 @@
 Before moving into software development, I was a therapy radiographer working for the NHS. I love solving problems, learning new things, and working with people. All things I got to do as a radiographer, which I'm now applying to my journey in tech!
 
 ### What I'm Tinkering With
-I’m currently working on: 
   - Fortunes and Winds, a dice game from the RPG "Legend of the Five Rings". The eventual aim is to turn this into a Discord bot so people can play/use it in a server;
   - Pokemon Top Trumps using the PokemonAPI;
   - A tarot card reading app, to create and save tarot card readings.

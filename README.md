@@ -13,10 +13,10 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="animation of a woman coding">
 </div>
 
-### 👩 About Me
+## 👩 About Me
 Before moving into software development, I was a therapy radiographer working for the NHS. I love solving problems, learning new things, and working with people. All things I got to do as a radiographer, which I also get to do in tech! I have recently graduated from the [School of Code](https://www.schoolofcode.co.uk/course), a 16 week programming bootcamp which emphasised the importance of collaboration and team-working in software development.
 
-### 🛠️ What I'm Tinkering With
+## 🛠️ What I'm Tinkering With
   - **Fortunes and Winds**, a dice game from the RPG "Legend of the Five Rings". The eventual aim is to turn this into a Discord bot so people can play/use it in a server;
   - **Pokemon Top Trumps** using the PokemonAPI;
   - A **tarot card reading** app, to create and save tarot card readings.

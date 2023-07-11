@@ -17,16 +17,19 @@
 Before moving into software development, I was a therapy radiographer working for the NHS. I love solving problems, learning new things, and working with people. All things I got to do as a radiographer, which I also get to do in tech! I have recently graduated from the [School of Code](https://www.schoolofcode.co.uk/course), a 16 week programming bootcamp which emphasised the importance of collaboration and team-working in software development.
 
 ## 🛠️ What I'm Tinkering With
+  - **Sproutland Valley**, a Python game based on Stardew Valley as a fun learning experiment;
   - **Fortunes and Winds**, a dice game from the RPG "Legend of the Five Rings". The eventual aim is to turn this into a Discord bot so people can play/use it in a server;
   - **Pokemon Top Trumps** using the PokemonAPI;
   - A **tarot card reading** app, to create and save tarot card readings.
 
 
 ## 🧰 My Toolbox  
+![Python Badge](https://img.shields.io/badge/python-BE90F2?&style=for-the-badge&logoColor=white&logo=python)
+![Go Badge](https://img.shields.io/badge/go-6897E8?style=for-the-badge&logoColor=white&logo=go)
 ![HTML5 badge](https://img.shields.io/badge/HTML-BE90F2?&style=for-the-badge&logoColor=white&logo=html5)
 ![CSS3 badge](https://img.shields.io/badge/CSS-6897E8?style=for-the-badge&logoColor=white&logo=css3)
 ![Javascript badge](https://img.shields.io/badge/Javascript-BE90F2?style=for-the-badge&logoColor=white&logo=javascript)
-![Typescript bade](https://img.shields.io/badge/Typescript-6897E8?style=for-the-badge&logoColor=white&logo=typescript)
+![Typescript badge](https://img.shields.io/badge/Typescript-6897E8?style=for-the-badge&logoColor=white&logo=typescript)
 ![React badge](https://img.shields.io/badge/React-BE90F2?style=for-the-badge&logoColor=white&logo=react)
 ![Tailwind badge](https://img.shields.io/badge/Tailwind-6897E8?style=for-the-badge&logoColor=white&logo=tailwindcss)
 ![Next.js badge](https://img.shields.io/badge/Next.js-BE90F2?style=for-the-badge&logoColor=white&logo=nextdotjs)

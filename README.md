@@ -14,7 +14,7 @@
 </div>
 
 ## 👩 About Me
-Before moving into software development, I was a therapy radiographer working for the NHS. I love solving problems, learning new things, and working with people. All things I got to do as a radiographer, which I also get to do in tech! I have recently graduated from the [School of Code](https://www.schoolofcode.co.uk/course), a 16 week programming bootcamp which emphasised the importance of collaboration and team-working in software development.
+Before moving into tech, I was a therapy radiographer working for the NHS. I love solving problems, learning new things, and working with people. All things I got to do as a radiographer, which I also get to do in tech! I currently work in cybersecurity, and I am a graduate of the [School of Code](https://www.schoolofcode.co.uk/course), a 16 week programming bootcamp which emphasised the importance of collaboration and team-working in software development.
 
 ## 🛠️ What I'm Tinkering With
   - **Sproutland Valley**, a Python game based on Stardew Valley as a fun learning experiment;
